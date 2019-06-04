@@ -20,7 +20,6 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <AudioToolbox/AudioServices.h>
-#import <AudioToolbox/AudioToolbox.h>
 #import <Cordova/CDVPlugin.h>
 
 @interface CDVVibration : CDVPlugin {}
